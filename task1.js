@@ -1,5 +1,4 @@
 /*let message_to = `Привет, ${name}`;
-
 alert(message_to);*/
 
 
